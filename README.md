@@ -28,13 +28,13 @@ Pass the input trace file and output filename as command-line arguments.
 **Windows PowerShell:**
 
 ```powershell
-.\cache_simulator input.txt output.txt
+.\cache-sim input.txt output.txt
 ```
 
 **Linux/macOS:**
 
 ```bash
-./cache_simulator input.txt output.txt
+./cache-sim input.txt output.txt
 ```
 
 ## Input Format
